@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @arhaan2010
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning all languages
-- 💞️ I’m looking to collaborate on an app my dad challenged me to
-- 📫 REach to me on discord-X1Arhaan#8108
+robotics maniac btw
